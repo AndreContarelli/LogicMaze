@@ -25,7 +25,7 @@ class MotorLabirinto {
     }
 ```
 Aqui criamos a classe e declaramos as variaveis e lets iniciais para definir o tamanho dos labirintos, uma lista vazia para futuramente atribuir os labirintos e inicializando o jogador.
-O ˜init˜ é o constutor que recebe as funções ```criarLabirintos()```e ```reiniciarJogador()```.
+O ```init()``` é o constutor que recebe as funções ```criarLabirintos()```e ```reiniciarJogador()```.
 
 ---
 
