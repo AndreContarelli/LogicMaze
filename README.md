@@ -7,7 +7,7 @@ Jogo criado com o foco em ajudar a desenvolver o raciocínio lógico, mais preci
 
 # Motor Labirinto
 
-Essa é a classe mais importante do codigo onde todos os metodos de criação e movimentação do usuario.
+Essa é a classe mais importante do codigo onde todos os metodos de criação e movimentação do usuario estão.
 ---
 ```
 class MotorLabirinto {
